@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TouchRepeater</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	<string name="button_startRecording">开始录制</string>
+	<string name="button_stopRecording">停止录制</string>
+	<string name="button_startReplaying">开始回放</string>
+	<string name="button_stopReplaying">停止回放</string>
+</resources>
